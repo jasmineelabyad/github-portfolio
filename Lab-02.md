@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To design a simplified Zero Trust Architecture (ZTA) policy for protecting sensitive HR employee PII data within a critical infrastructure environment. This lab focuses on applying the Zero Trust principle of *Verify Explicitly* using identity, device posture, and network context signals.
 
 ---
 
-## 🔐 Key Components & Concepts
+##  Key Components & Concepts
 
 1. **Policy Engine (PE):** Evaluates access requests and makes allow/deny decisions based on security signals.
 2. **Policy Administrator (PA):** Translates policy decisions into actions such as granting credentials or session access.
@@ -20,14 +20,14 @@ To design a simplified Zero Trust Architecture (ZTA) policy for protecting sensi
 
 ---
 
-## 🧠 Core Principle Applied
+##  Core Principle Applied
 
 **Verify Explicitly**  
 Every access request to the HR Employee PII Database is evaluated using multiple real-time security signals. Access is only granted if the user’s identity is verified, the device is compliant, and the network context is trusted.
 
 ---
 
-## 🧪 Proof of Work
+##  Proof of Work
 <img width="570" height="224" alt="Screenshot 2026-02-17 at 9 15 29 PM" src="https://github.com/user-attachments/assets/81fcaf6e-ac7d-45b9-8b79-a465420e5b7c" />
 
 
