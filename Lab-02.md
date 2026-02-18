@@ -28,6 +28,9 @@ Every access request to the HR Employee PII Database is evaluated using multiple
 ---
 
 ## 🧪 Proof of Work
+<img width="570" height="224" alt="Screenshot 2026-02-17 at 9 15 29 PM" src="https://github.com/user-attachments/assets/81fcaf6e-ac7d-45b9-8b79-a465420e5b7c" />
+
+
 
 - Created and documented a Zero Trust policy profile using Markdown  
 - Committed and pushed policy documentation to GitHub  
