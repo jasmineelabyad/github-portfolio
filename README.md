@@ -8,6 +8,7 @@ It will be used to track labs, projects, and professional GitHub activity throug
 ## 📘 Completed Labs
 
 - Lab 01: Infrastructure Audit (Facebook Outage Case Study)
+- Lab 02: Zero Trust Architecture Policy Profile  
 
 ---
 
