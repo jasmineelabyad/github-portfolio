@@ -41,6 +41,6 @@ https://github.com/jasmineelabyad/Lab2-ZeroTrust
 
 ---
 
-## ✅ Outcome
+##  Outcome
 
 This lab demonstrates practical application of Zero Trust Architecture concepts and reinforces secure access control design for sensitive data within a critical infrastructure environment.
