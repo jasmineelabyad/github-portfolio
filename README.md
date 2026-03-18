@@ -10,6 +10,7 @@ It will be used to track labs, projects, and professional GitHub activity throug
 - Lab 01: Infrastructure Audit (Facebook Outage Case Study)
 - Lab 02: Zero Trust Architecture Policy Profile
 - Lab 03: AWS Cloud Security (IAM Least Privilege, S3 Permissions, EC2 Security Groups)
+- Lab 04: Enterprise LAN Security Assessment (OSI Model Mapping, Shellshock Simulation, Incident Response)
 
 ---
 
